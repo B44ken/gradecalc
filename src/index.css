@@ -2,6 +2,8 @@
 
 body {
 	font-family: 'Roboto';
+  font-weight: 300;
+  font-style: normal;
 	font-size: 22px;
 	background: #f6f6f6;
 	text-align: center;
@@ -9,6 +11,8 @@ body {
 
 h1 {
 	font-family: 'IBM Plex Mono';
+  font-weight: 300;
+  font-style: italic;
 }
 
 span.name {
@@ -16,6 +20,7 @@ span.name {
 }
 
 input, select {
+  color: #000;
 	appearance: none;
 	font-size: 22px;
 	width: 60px;
