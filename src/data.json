@@ -1,0 +1,22 @@
+{
+    "weights": {
+        "All Equal": {
+            "Knowledge": 25,
+            "Thinking": 25,
+            "Application": 25,
+            "Communication": 25	
+        },
+        "Physics": {
+            "Knowledge": 35,
+            "Thinking": 35,
+            "Application": 15,
+            "Communication": 15
+        },
+        "Math": {
+            "Knowledge": 40,
+            "Thinking": 20,
+            "Application": 25,
+            "Communication": 15
+        }
+    }
+}
